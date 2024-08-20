@@ -1,0 +1,11 @@
+﻿<asp:GridView SkinId="GridView" runat="server" AutoGenerateColumns="false"  
+  CssClass="table table-bordered" HeaderStyle-CssClass="table.dataTable bg-warning" EmptyDataRowStyle-BorderWidth="0" 
+    EmptyDataRowStyle-CssClass="table.dataTable td.dataTables_empty" BorderStyle="None" BorderWidth="0" 
+    RowStyle-CssClass="table.dataTable td input-sedang" FooterStyle-CssClass="table-footer" ShowHeaderWhenEmpty="true" EmptyDataRowStyle-HorizontalAlign="Center">
+    <HeaderStyle VerticalAlign="Middle" HorizontalAlign="Center" BackColor="#039BE5" Font-Bold="True" ForeColor="Black"/>
+    <SelectedRowStyle BackColor="AliceBlue"/>
+    <PagerStyle HorizontalAlign="Right" />
+    <EmptyDataTemplate>
+        No records data
+    </EmptyDataTemplate>
+</asp:GridView>

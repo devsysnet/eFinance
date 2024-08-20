@@ -1,0 +1,813 @@
+﻿norek,kdrek,ket,jenis,nilai,nocabang,namacabang
+815,211.006,Titipan Dana Sosial (IDS),35,25000,185,Kantor Kanisius Cabang Yogyakarta
+814,211.005,Titipan PPH 21,45,172058,185,Kantor Kanisius Cabang Yogyakarta
+818,211.009,Titipan Dana BPJS Kesehatan,35,197201,185,Kantor Kanisius Cabang Yogyakarta
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,392099,185,Kantor Kanisius Cabang Yogyakarta
+816,211.007,Titipan Iuran YADAPEN,35,415597,185,Kantor Kanisius Cabang Yogyakarta
+812,212.001,Titipan Dana Kesehatan,35,566714,185,Kantor Kanisius Cabang Yogyakarta
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,717840,185,Kantor Kanisius Cabang Yogyakarta
+812,212.001,Titipan Dana Kesehatan,17,740000,185,Kantor Kanisius Cabang Yogyakarta
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,788803,185,Kantor Kanisius Cabang Yogyakarta
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,831249,185,Kantor Kanisius Cabang Yogyakarta
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1625030,185,Kantor Kanisius Cabang Yogyakarta
+1376,211.003.09,Titipan Dana Kegiatan,47,1700000,185,Kantor Kanisius Cabang Yogyakarta
+1385,211.003.20,Titipan Lain-Lain,47,5755790,185,Kantor Kanisius Cabang Yogyakarta
+1371,212.002,Titipan SP,47,11908473,185,Kantor Kanisius Cabang Yogyakarta
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,36077139,185,Kantor Kanisius Cabang Yogyakarta
+815,211.006,Titipan Dana Sosial (IDS),35,20000,128,SD Kanisius Babadan
+1385,211.003.20,Titipan Lain-Lain,47,20000,128,SD Kanisius Babadan
+818,211.009,Titipan Dana BPJS Kesehatan,35,69260,128,SD Kanisius Babadan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,86340,128,SD Kanisius Babadan
+816,211.007,Titipan Iuran YADAPEN,35,109044,128,SD Kanisius Babadan
+812,212.001,Titipan Dana Kesehatan,35,148695,128,SD Kanisius Babadan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,183039,128,SD Kanisius Babadan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,188347,128,SD Kanisius Babadan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,277036,128,SD Kanisius Babadan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300065,128,SD Kanisius Babadan
+1371,212.002,Titipan SP,47,1515834,128,SD Kanisius Babadan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,6046509,128,SD Kanisius Babadan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,7000065,128,SD Kanisius Babadan
+815,211.006,Titipan Dana Sosial (IDS),35,12500,107,SD Kanisius Bandung
+818,211.009,Titipan Dana BPJS Kesehatan,35,21880,107,SD Kanisius Bandung
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,87522,107,SD Kanisius Bandung
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,87522,107,SD Kanisius Bandung
+816,211.007,Titipan Iuran YADAPEN,35,99626,107,SD Kanisius Bandung
+812,212.001,Titipan Dana Kesehatan,35,135852,107,SD Kanisius Bandung
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,172079,107,SD Kanisius Bandung
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,185546,107,SD Kanisius Bandung
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,107,SD Kanisius Bandung
+812,212.001,Titipan Dana Kesehatan,17,328000,107,SD Kanisius Bandung
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,107,SD Kanisius Bandung
+1371,212.002,Titipan SP,47,2225834,107,SD Kanisius Bandung
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,2800000,107,SD Kanisius Bandung
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5543480,107,SD Kanisius Bandung
+815,211.006,Titipan Dana Sosial (IDS),35,35000,87,SD Kanisius Bantul
+818,211.009,Titipan Dana BPJS Kesehatan,35,66738,87,SD Kanisius Bantul
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,265974,87,SD Kanisius Bantul
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,266948,87,SD Kanisius Bantul
+816,211.007,Titipan Iuran YADAPEN,35,272785,87,SD Kanisius Bantul
+812,212.001,Titipan Dana Kesehatan,35,371976,87,SD Kanisius Bantul
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,471169,87,SD Kanisius Bantul
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,563868,87,SD Kanisius Bantul
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1539498,87,SD Kanisius Bantul
+1371,212.002,Titipan SP,47,3120000,87,SD Kanisius Bantul
+1385,211.003.20,Titipan Lain-Lain,47,4978000,87,SD Kanisius Bantul
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,11150000,87,SD Kanisius Bantul
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,13224875,87,SD Kanisius Bantul
+815,211.006,Titipan Dana Sosial (IDS),35,17500,97,SD Kanisius Beji
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,43761,97,SD Kanisius Beji
+816,211.007,Titipan Iuran YADAPEN,35,48275,97,SD Kanisius Beji
+812,212.001,Titipan Dana Kesehatan,35,65829,97,SD Kanisius Beji
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,83383,97,SD Kanisius Beji
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,92773,97,SD Kanisius Beji
+818,211.009,Titipan Dana BPJS Kesehatan,35,131280,97,SD Kanisius Beji
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,97,SD Kanisius Beji
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,525132,97,SD Kanisius Beji
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,97,SD Kanisius Beji
+1371,212.002,Titipan SP,47,2150140,97,SD Kanisius Beji
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2839345,97,SD Kanisius Beji
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,7000400,97,SD Kanisius Beji
+815,211.006,Titipan Dana Sosial (IDS),35,15000,114,SD Kanisius Bonoharjo
+1385,211.003.20,Titipan Lain-Lain,47,20000,114,SD Kanisius Bonoharjo
+818,211.009,Titipan Dana BPJS Kesehatan,35,88308,114,SD Kanisius Bonoharjo
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,176620,114,SD Kanisius Bonoharjo
+816,211.007,Titipan Iuran YADAPEN,35,192474,114,SD Kanisius Bonoharjo
+812,212.001,Titipan Dana Kesehatan,35,262461,114,SD Kanisius Bonoharjo
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,332451,114,SD Kanisius Bonoharjo
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,353240,114,SD Kanisius Bonoharjo
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,374432,114,SD Kanisius Bonoharjo
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,114,SD Kanisius Bonoharjo
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400077,114,SD Kanisius Bonoharjo
+1371,212.002,Titipan SP,47,2612778,114,SD Kanisius Bonoharjo
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,10653886,114,SD Kanisius Bonoharjo
+815,211.006,Titipan Dana Sosial (IDS),35,22500,139,SD Kanisius Condong Catur
+818,211.009,Titipan Dana BPJS Kesehatan,35,96180,139,SD Kanisius Condong Catur
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,178980,139,SD Kanisius Condong Catur
+816,211.007,Titipan Iuran YADAPEN,35,195191,139,SD Kanisius Condong Catur
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,139,SD Kanisius Condong Catur
+812,212.001,Titipan Dana Kesehatan,35,266166,139,SD Kanisius Condong Catur
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,337144,139,SD Kanisius Condong Catur
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,379433,139,SD Kanisius Condong Catur
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,384718,139,SD Kanisius Condong Catur
+812,212.001,Titipan Dana Kesehatan,17,387361,139,SD Kanisius Condong Catur
+1371,212.002,Titipan SP,47,580000,139,SD Kanisius Condong Catur
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1250000,139,SD Kanisius Condong Catur
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600000,139,SD Kanisius Condong Catur
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,10627417,139,SD Kanisius Condong Catur
+815,211.006,Titipan Dana Sosial (IDS),35,65000,131,SD Kanisius Demangan Baru I
+818,211.009,Titipan Dana BPJS Kesehatan,35,410751,131,SD Kanisius Demangan Baru I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,844080,131,SD Kanisius Demangan Baru I
+816,211.007,Titipan Iuran YADAPEN,35,861360,131,SD Kanisius Demangan Baru I
+812,212.001,Titipan Dana Kesehatan,35,1174567,131,SD Kanisius Demangan Baru I
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,131,SD Kanisius Demangan Baru I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,1487787,131,SD Kanisius Demangan Baru I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,1649252,131,SD Kanisius Demangan Baru I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,1789445,131,SD Kanisius Demangan Baru I
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,4841534,131,SD Kanisius Demangan Baru I
+1371,212.002,Titipan SP,47,5594168,131,SD Kanisius Demangan Baru I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,11200120,131,SD Kanisius Demangan Baru I
+1385,211.003.20,Titipan Lain-Lain,47,19371760,131,SD Kanisius Demangan Baru I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,41491471,131,SD Kanisius Demangan Baru I
+1385,211.003.20,Titipan Lain-Lain,47,20000,123,SD Kanisius Duwet
+815,211.006,Titipan Dana Sosial (IDS),35,32500,123,SD Kanisius Duwet
+818,211.009,Titipan Dana BPJS Kesehatan,35,184884,123,SD Kanisius Duwet
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,123,SD Kanisius Duwet
+816,211.007,Titipan Iuran YADAPEN,35,315688,123,SD Kanisius Duwet
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,324240,123,SD Kanisius Duwet
+812,212.001,Titipan Dana Kesehatan,35,430479,123,SD Kanisius Duwet
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,545272,123,SD Kanisius Duwet
+1371,212.002,Titipan SP,47,590000,123,SD Kanisius Duwet
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,687379,123,SD Kanisius Duwet
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,739535,123,SD Kanisius Duwet
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1969430,123,SD Kanisius Duwet
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8400077,123,SD Kanisius Duwet
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,15305184,123,SD Kanisius Duwet
+1385,211.003.20,Titipan Lain-Lain,47,20000,118,SD Kanisius Gamping
+815,211.006,Titipan Dana Sosial (IDS),35,22500,118,SD Kanisius Gamping
+818,211.009,Titipan Dana BPJS Kesehatan,35,45325,118,SD Kanisius Gamping
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,92640,118,SD Kanisius Gamping
+816,211.007,Titipan Iuran YADAPEN,35,104657,118,SD Kanisius Gamping
+812,212.001,Titipan Dana Kesehatan,35,142713,118,SD Kanisius Gamping
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,180770,118,SD Kanisius Gamping
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,181297,118,SD Kanisius Gamping
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,196394,118,SD Kanisius Gamping
+812,212.001,Titipan Dana Kesehatan,17,666800,118,SD Kanisius Gamping
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,118,SD Kanisius Gamping
+1371,212.002,Titipan SP,47,5622936,118,SD Kanisius Gamping
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5772170,118,SD Kanisius Gamping
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8400065,118,SD Kanisius Gamping
+1385,211.003.20,Titipan Lain-Lain,47,20000,88,SD Kanisius Ganjuran
+815,211.006,Titipan Dana Sosial (IDS),35,22500,88,SD Kanisius Ganjuran
+818,211.009,Titipan Dana BPJS Kesehatan,35,157920,88,SD Kanisius Ganjuran
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,177316,88,SD Kanisius Ganjuran
+816,211.007,Titipan Iuran YADAPEN,35,203699,88,SD Kanisius Ganjuran
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,88,SD Kanisius Ganjuran
+812,212.001,Titipan Dana Kesehatan,35,277767,88,SD Kanisius Ganjuran
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,351837,88,SD Kanisius Ganjuran
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,375912,88,SD Kanisius Ganjuran
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,631668,88,SD Kanisius Ganjuran
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,88,SD Kanisius Ganjuran
+1371,212.002,Titipan SP,47,3476390,88,SD Kanisius Ganjuran
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600260,88,SD Kanisius Ganjuran
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,11319142,88,SD Kanisius Ganjuran
+815,211.006,Titipan Dana Sosial (IDS),35,22500,74,SD Kanisius Gayam I
+818,211.009,Titipan Dana BPJS Kesehatan,35,49860,74,SD Kanisius Gayam I
+1385,211.003.20,Titipan Lain-Lain,47,110000,74,SD Kanisius Gayam I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,138518,74,SD Kanisius Gayam I
+816,211.007,Titipan Iuran YADAPEN,35,164095,74,SD Kanisius Gayam I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,199440,74,SD Kanisius Gayam I
+812,212.001,Titipan Dana Kesehatan,35,223763,74,SD Kanisius Gayam I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,283433,74,SD Kanisius Gayam I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,293659,74,SD Kanisius Gayam I
+1371,212.002,Titipan SP,47,1221112,74,SD Kanisius Gayam I
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,74,SD Kanisius Gayam I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,7000030,74,SD Kanisius Gayam I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,9023906,74,SD Kanisius Gayam I
+815,211.006,Titipan Dana Sosial (IDS),35,17500,121,SD Kanisius Jetis Depok
+1385,211.003.20,Titipan Lain-Lain,47,20000,121,SD Kanisius Jetis Depok
+818,211.009,Titipan Dana BPJS Kesehatan,35,71250,121,SD Kanisius Jetis Depok
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,185280,121,SD Kanisius Jetis Depok
+816,211.007,Titipan Iuran YADAPEN,35,186796,121,SD Kanisius Jetis Depok
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,121,SD Kanisius Jetis Depok
+812,212.001,Titipan Dana Kesehatan,35,254717,121,SD Kanisius Jetis Depok
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,284998,121,SD Kanisius Jetis Depok
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,322642,121,SD Kanisius Jetis Depok
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,392788,121,SD Kanisius Jetis Depok
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1907743,121,SD Kanisius Jetis Depok
+1371,212.002,Titipan SP,47,4184722,121,SD Kanisius Jetis Depok
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200000,121,SD Kanisius Jetis Depok
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8668000,121,SD Kanisius Jetis Depok
+815,211.006,Titipan Dana Sosial (IDS),35,15000,94,SD Kanisius Jomegatan
+1385,211.003.20,Titipan Lain-Lain,47,20000,94,SD Kanisius Jomegatan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,44329,94,SD Kanisius Jomegatan
+816,211.007,Titipan Iuran YADAPEN,35,57185,94,SD Kanisius Jomegatan
+812,212.001,Titipan Dana Kesehatan,35,77979,94,SD Kanisius Jomegatan
+818,211.009,Titipan Dana BPJS Kesehatan,35,91425,94,SD Kanisius Jomegatan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,93978,94,SD Kanisius Jomegatan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,98773,94,SD Kanisius Jomegatan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,94,SD Kanisius Jomegatan
+1371,212.002,Titipan SP,47,340000,94,SD Kanisius Jomegatan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,365694,94,SD Kanisius Jomegatan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300065,94,SD Kanisius Jomegatan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,3244323,94,SD Kanisius Jomegatan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200130,94,SD Kanisius Jomegatan
+1385,211.003.20,Titipan Lain-Lain,47,20000,133,SD Kanisius Kadirojo
+815,211.006,Titipan Dana Sosial (IDS),35,37500,133,SD Kanisius Kadirojo
+818,211.009,Titipan Dana BPJS Kesehatan,35,153196,133,SD Kanisius Kadirojo
+812,212.001,Titipan Dana Kesehatan,17,220500,133,SD Kanisius Kadirojo
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,231600,133,SD Kanisius Kadirojo
+816,211.007,Titipan Iuran YADAPEN,35,236955,133,SD Kanisius Kadirojo
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,133,SD Kanisius Kadirojo
+812,212.001,Titipan Dana Kesehatan,35,323114,133,SD Kanisius Kadirojo
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,409278,133,SD Kanisius Kadirojo
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,490985,133,SD Kanisius Kadirojo
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,748193,133,SD Kanisius Kadirojo
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1275000,133,SD Kanisius Kadirojo
+1371,212.002,Titipan SP,47,1335000,133,SD Kanisius Kadirojo
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1643707,133,SD Kanisius Kadirojo
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,11200190,133,SD Kanisius Kadirojo
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,11451868,133,SD Kanisius Kadirojo
+815,211.006,Titipan Dana Sosial (IDS),35,42500,135,SD Kanisius Kalasan
+818,211.009,Titipan Dana BPJS Kesehatan,35,172776,135,SD Kanisius Kalasan
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,135,SD Kanisius Kalasan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,509520,135,SD Kanisius Kalasan
+816,211.007,Titipan Iuran YADAPEN,35,543009,135,SD Kanisius Kalasan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,691097,135,SD Kanisius Kalasan
+812,212.001,Titipan Dana Kesehatan,35,740454,135,SD Kanisius Kalasan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,937909,135,SD Kanisius Kalasan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,1080167,135,SD Kanisius Kalasan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,135,SD Kanisius Kalasan
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2087806,135,SD Kanisius Kalasan
+1371,212.002,Titipan SP,47,3255000,135,SD Kanisius Kalasan
+812,212.001,Titipan Dana Kesehatan,17,3917682,135,SD Kanisius Kalasan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,6925000,135,SD Kanisius Kalasan
+1385,211.003.20,Titipan Lain-Lain,47,11292358,135,SD Kanisius Kalasan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,27659453,135,SD Kanisius Kalasan
+815,211.006,Titipan Dana Sosial (IDS),35,20000,90,SD Kanisius Kanutan
+1385,211.003.20,Titipan Lain-Lain,47,20000,90,SD Kanisius Kanutan
+818,211.009,Titipan Dana BPJS Kesehatan,35,44573,90,SD Kanisius Kanutan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,88658,90,SD Kanisius Kanutan
+816,211.007,Titipan Iuran YADAPEN,35,98185,90,SD Kanisius Kanutan
+812,212.001,Titipan Dana Kesehatan,35,133887,90,SD Kanisius Kanutan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,169590,90,SD Kanisius Kanutan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,178290,90,SD Kanisius Kanutan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,187956,90,SD Kanisius Kanutan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,90,SD Kanisius Kanutan
+1371,212.002,Titipan SP,47,2241666,90,SD Kanisius Kanutan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5478003,90,SD Kanisius Kanutan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,7000000,90,SD Kanisius Kanutan
+1385,211.003.20,Titipan Lain-Lain,47,20000,93,SD Kanisius Kembaran
+818,211.009,Titipan Dana BPJS Kesehatan,35,91425,93,SD Kanisius Kembaran
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,132987,93,SD Kanisius Kembaran
+816,211.007,Titipan Iuran YADAPEN,35,148999,93,SD Kanisius Kembaran
+812,212.001,Titipan Dana Kesehatan,35,203177,93,SD Kanisius Kembaran
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,257358,93,SD Kanisius Kembaran
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,281934,93,SD Kanisius Kembaran
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,365694,93,SD Kanisius Kembaran
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,93,SD Kanisius Kembaran
+1371,212.002,Titipan SP,47,2187778,93,SD Kanisius Kembaran
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200130,93,SD Kanisius Kembaran
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8577658,93,SD Kanisius Kembaran
+815,211.006,Titipan Dana Sosial (IDS),35,15000,109,SD Kanisius Kenteng
+1385,211.003.20,Titipan Lain-Lain,47,20000,109,SD Kanisius Kenteng
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,88310,109,SD Kanisius Kenteng
+816,211.007,Titipan Iuran YADAPEN,35,88666,109,SD Kanisius Kenteng
+818,211.009,Titipan Dana BPJS Kesehatan,35,110385,109,SD Kanisius Kenteng
+812,212.001,Titipan Dana Kesehatan,35,120906,109,SD Kanisius Kenteng
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,153148,109,SD Kanisius Kenteng
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,187216,109,SD Kanisius Kenteng
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,109,SD Kanisius Kenteng
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,529860,109,SD Kanisius Kenteng
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,109,SD Kanisius Kenteng
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200231,109,SD Kanisius Kenteng
+1371,212.002,Titipan SP,47,4367360,109,SD Kanisius Kenteng
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5045236,109,SD Kanisius Kenteng
+815,211.006,Titipan Dana Sosial (IDS),35,17500,75,SD Kanisius Kintelan I
+1385,211.003.20,Titipan Lain-Lain,47,20000,75,SD Kanisius Kintelan I
+818,211.009,Titipan Dana BPJS Kesehatan,35,49860,75,SD Kanisius Kintelan I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,149580,75,SD Kanisius Kintelan I
+816,211.007,Titipan Iuran YADAPEN,35,151284,75,SD Kanisius Kintelan I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,199440,75,SD Kanisius Kintelan I
+812,212.001,Titipan Dana Kesehatan,35,206293,75,SD Kanisius Kintelan I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,261305,75,SD Kanisius Kintelan I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,317109,75,SD Kanisius Kintelan I
+1371,212.002,Titipan SP,47,1050834,75,SD Kanisius Kintelan I
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,75,SD Kanisius Kintelan I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,3075000,75,SD Kanisius Kintelan I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,7986617,75,SD Kanisius Kintelan I
+1385,211.003.20,Titipan Lain-Lain,47,20000,119,SD Kanisius Klepu
+815,211.006,Titipan Dana Sosial (IDS),35,25000,119,SD Kanisius Klepu
+818,211.009,Titipan Dana BPJS Kesehatan,35,71250,119,SD Kanisius Klepu
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,126360,119,SD Kanisius Klepu
+816,211.007,Titipan Iuran YADAPEN,35,150983,119,SD Kanisius Klepu
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,119,SD Kanisius Klepu
+812,212.001,Titipan Dana Kesehatan,35,205884,119,SD Kanisius Klepu
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,260786,119,SD Kanisius Klepu
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,267881,119,SD Kanisius Klepu
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,284998,119,SD Kanisius Klepu
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,119,SD Kanisius Klepu
+1371,212.002,Titipan SP,47,3679722,119,SD Kanisius Klepu
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8400060,119,SD Kanisius Klepu
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8772917,119,SD Kanisius Klepu
+815,211.006,Titipan Dana Sosial (IDS),35,20000,77,SD Kanisius Kotabaru
+1385,211.003.20,Titipan Lain-Lain,47,20000,77,SD Kanisius Kotabaru
+818,211.009,Titipan Dana BPJS Kesehatan,35,174510,77,SD Kanisius Kotabaru
+816,211.007,Titipan Iuran YADAPEN,35,191889,77,SD Kanisius Kotabaru
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,199440,77,SD Kanisius Kotabaru
+812,212.001,Titipan Dana Kesehatan,35,261659,77,SD Kanisius Kotabaru
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,331435,77,SD Kanisius Kotabaru
+1376,211.003.09,Titipan Dana Kegiatan,47,400000,77,SD Kanisius Kotabaru
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,422812,77,SD Kanisius Kotabaru
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,698040,77,SD Kanisius Kotabaru
+1371,212.002,Titipan SP,47,1781666,77,SD Kanisius Kotabaru
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2556613,77,SD Kanisius Kotabaru
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600090,77,SD Kanisius Kotabaru
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8355595,77,SD Kanisius Kotabaru
+815,211.006,Titipan Dana Sosial (IDS),35,20000,79,SD Kanisius Kumendaman
+1385,211.003.20,Titipan Lain-Lain,47,20000,79,SD Kanisius Kumendaman
+818,211.009,Titipan Dana BPJS Kesehatan,35,49860,79,SD Kanisius Kumendaman
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,99720,79,SD Kanisius Kumendaman
+816,211.007,Titipan Iuran YADAPEN,35,104846,79,SD Kanisius Kumendaman
+812,212.001,Titipan Dana Kesehatan,35,142968,79,SD Kanisius Kumendaman
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,181093,79,SD Kanisius Kumendaman
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,199440,79,SD Kanisius Kumendaman
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,211406,79,SD Kanisius Kumendaman
+1371,212.002,Titipan SP,47,600000,79,SD Kanisius Kumendaman
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,79,SD Kanisius Kumendaman
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5870694,79,SD Kanisius Kumendaman
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,7000000,79,SD Kanisius Kumendaman
+815,211.006,Titipan Dana Sosial (IDS),35,17500,126,SD Kanisius Minggir
+1385,211.003.20,Titipan Lain-Lain,47,20000,126,SD Kanisius Minggir
+818,211.009,Titipan Dana BPJS Kesehatan,35,46320,126,SD Kanisius Minggir
+816,211.007,Titipan Iuran YADAPEN,35,90472,126,SD Kanisius Minggir
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,92640,126,SD Kanisius Minggir
+812,212.001,Titipan Dana Kesehatan,35,123368,126,SD Kanisius Minggir
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,156265,126,SD Kanisius Minggir
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,185278,126,SD Kanisius Minggir
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,196394,126,SD Kanisius Minggir
+1376,211.003.09,Titipan Dana Kegiatan,47,550000,126,SD Kanisius Minggir
+1371,212.002,Titipan SP,47,1365834,126,SD Kanisius Minggir
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2357024,126,SD Kanisius Minggir
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2510376,126,SD Kanisius Minggir
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5550000,126,SD Kanisius Minggir
+815,211.006,Titipan Dana Sosial (IDS),35,12500,124,SD Kanisius Ngapak
+1385,211.003.20,Titipan Lain-Lain,47,20000,124,SD Kanisius Ngapak
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,46320,124,SD Kanisius Ngapak
+816,211.007,Titipan Iuran YADAPEN,35,49465,124,SD Kanisius Ngapak
+812,212.001,Titipan Dana Kesehatan,35,67452,124,SD Kanisius Ngapak
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,85439,124,SD Kanisius Ngapak
+818,211.009,Titipan Dana BPJS Kesehatan,35,94410,124,SD Kanisius Ngapak
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,98197,124,SD Kanisius Ngapak
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,124,SD Kanisius Ngapak
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,377637,124,SD Kanisius Ngapak
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300060,124,SD Kanisius Ngapak
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2893467,124,SD Kanisius Ngapak
+1371,212.002,Titipan SP,47,3969446,124,SD Kanisius Ngapak
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200120,124,SD Kanisius Ngapak
+815,211.006,Titipan Dana Sosial (IDS),35,12500,103,SD Kanisius Ngawen
+818,211.009,Titipan Dana BPJS Kesehatan,35,21880,103,SD Kanisius Ngawen
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,87522,103,SD Kanisius Ngawen
+1371,212.002,Titipan SP,47,630000,103,SD Kanisius Ngawen
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300080,103,SD Kanisius Ngawen
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5875000,103,SD Kanisius Ngawen
+815,211.006,Titipan Dana Sosial (IDS),35,20000,81,SD Kanisius Notoyudan I
+1385,211.003.20,Titipan Lain-Lain,47,20000,81,SD Kanisius Notoyudan I
+818,211.009,Titipan Dana BPJS Kesehatan,35,147810,81,SD Kanisius Notoyudan I
+816,211.007,Titipan Iuran YADAPEN,35,148990,81,SD Kanisius Notoyudan I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,149580,81,SD Kanisius Notoyudan I
+812,212.001,Titipan Dana Kesehatan,35,203166,81,SD Kanisius Notoyudan I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,257344,81,SD Kanisius Notoyudan I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,317109,81,SD Kanisius Notoyudan I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,591239,81,SD Kanisius Notoyudan I
+1371,212.002,Titipan SP,47,900000,81,SD Kanisius Notoyudan I
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300030,81,SD Kanisius Notoyudan I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600120,81,SD Kanisius Notoyudan I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8157296,81,SD Kanisius Notoyudan I
+815,211.006,Titipan Dana Sosial (IDS),35,15000,110,SD Kanisius Pelem Dukuh
+1385,211.003.20,Titipan Lain-Lain,47,20000,110,SD Kanisius Pelem Dukuh
+818,211.009,Titipan Dana BPJS Kesehatan,35,22077,110,SD Kanisius Pelem Dukuh
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,44155,110,SD Kanisius Pelem Dukuh
+816,211.007,Titipan Iuran YADAPEN,35,50710,110,SD Kanisius Pelem Dukuh
+812,212.001,Titipan Dana Kesehatan,35,69150,110,SD Kanisius Pelem Dukuh
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,88310,110,SD Kanisius Pelem Dukuh
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,164164,110,SD Kanisius Pelem Dukuh
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,187216,110,SD Kanisius Pelem Dukuh
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,110,SD Kanisius Pelem Dukuh
+1371,212.002,Titipan SP,47,350000,110,SD Kanisius Pelem Dukuh
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1250000,110,SD Kanisius Pelem Dukuh
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4125000,110,SD Kanisius Pelem Dukuh
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,4350092,110,SD Kanisius Pelem Dukuh
+815,211.006,Titipan Dana Sosial (IDS),35,15000,91,SD Kanisius Pijenan
+1385,211.003.20,Titipan Lain-Lain,47,20000,91,SD Kanisius Pijenan
+818,211.009,Titipan Dana BPJS Kesehatan,35,44573,91,SD Kanisius Pijenan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,82666,91,SD Kanisius Pijenan
+816,211.007,Titipan Iuran YADAPEN,35,108264,91,SD Kanisius Pijenan
+812,212.001,Titipan Dana Kesehatan,35,147631,91,SD Kanisius Pijenan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,175252,91,SD Kanisius Pijenan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,178290,91,SD Kanisius Pijenan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,186999,91,SD Kanisius Pijenan
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,91,SD Kanisius Pijenan
+1371,212.002,Titipan SP,47,535000,91,SD Kanisius Pijenan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,91,SD Kanisius Pijenan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4150000,91,SD Kanisius Pijenan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5936134,91,SD Kanisius Pijenan
+815,211.006,Titipan Dana Sosial (IDS),35,15000,112,SD Kanisius Promasan
+1385,211.003.20,Titipan Lain-Lain,47,20000,112,SD Kanisius Promasan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,44155,112,SD Kanisius Promasan
+816,211.007,Titipan Iuran YADAPEN,35,49465,112,SD Kanisius Promasan
+812,212.001,Titipan Dana Kesehatan,35,67452,112,SD Kanisius Promasan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,85439,112,SD Kanisius Promasan
+818,211.009,Titipan Dana BPJS Kesehatan,35,88308,112,SD Kanisius Promasan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,93608,112,SD Kanisius Promasan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,112,SD Kanisius Promasan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,353240,112,SD Kanisius Promasan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300077,112,SD Kanisius Promasan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2893449,112,SD Kanisius Promasan
+1371,212.002,Titipan SP,47,2912000,112,SD Kanisius Promasan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5550154,112,SD Kanisius Promasan
+815,211.006,Titipan Dana Sosial (IDS),35,20000,85,SD Kanisius Pugeran I
+1385,211.003.20,Titipan Lain-Lain,47,20000,85,SD Kanisius Pugeran I
+818,211.009,Titipan Dana BPJS Kesehatan,35,99720,85,SD Kanisius Pugeran I
+812,212.001,Titipan Dana Kesehatan,17,185395,85,SD Kanisius Pugeran I
+816,211.007,Titipan Iuran YADAPEN,35,246846,85,SD Kanisius Pugeran I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,249300,85,SD Kanisius Pugeran I
+1371,212.002,Titipan SP,47,315000,85,SD Kanisius Pugeran I
+812,212.001,Titipan Dana Kesehatan,35,336600,85,SD Kanisius Pugeran I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,398880,85,SD Kanisius Pugeran I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,426360,85,SD Kanisius Pugeran I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,528515,85,SD Kanisius Pugeran I
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2357004,85,SD Kanisius Pugeran I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200060,85,SD Kanisius Pugeran I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,11678202,85,SD Kanisius Pugeran I
+815,211.006,Titipan Dana Sosial (IDS),35,17500,99,SD Kanisius Pulutan
+818,211.009,Titipan Dana BPJS Kesehatan,35,65640,99,SD Kanisius Pulutan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,87522,99,SD Kanisius Pulutan
+816,211.007,Titipan Iuran YADAPEN,35,99626,99,SD Kanisius Pulutan
+812,212.001,Titipan Dana Kesehatan,35,135852,99,SD Kanisius Pulutan
+812,212.001,Titipan Dana Kesehatan,17,155231,99,SD Kanisius Pulutan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,172079,99,SD Kanisius Pulutan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,185546,99,SD Kanisius Pulutan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,262566,99,SD Kanisius Pulutan
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,99,SD Kanisius Pulutan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300080,99,SD Kanisius Pulutan
+1371,212.002,Titipan SP,47,2892224,99,SD Kanisius Pulutan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5543480,99,SD Kanisius Pulutan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600080,99,SD Kanisius Pulutan
+1385,211.003.20,Titipan Lain-Lain,47,40000,129,SD Kanisius Sengkan
+815,211.006,Titipan Dana Sosial (IDS),35,57500,129,SD Kanisius Sengkan
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,129,SD Kanisius Sengkan
+818,211.009,Titipan Dana BPJS Kesehatan,35,356680,129,SD Kanisius Sengkan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,833760,129,SD Kanisius Sengkan
+816,211.007,Titipan Iuran YADAPEN,35,867177,129,SD Kanisius Sengkan
+812,212.001,Titipan Dana Kesehatan,35,1182497,129,SD Kanisius Sengkan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,129,SD Kanisius Sengkan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,1426704,129,SD Kanisius Sengkan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,1497829,129,SD Kanisius Sengkan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,1767546,129,SD Kanisius Sengkan
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,3654912,129,SD Kanisius Sengkan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5600120,129,SD Kanisius Sengkan
+1371,212.002,Titipan SP,47,7373224,129,SD Kanisius Sengkan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,42862482,129,SD Kanisius Sengkan
+815,211.006,Titipan Dana Sosial (IDS),35,40000,95,SD Kanisius Sorowajan
+818,211.009,Titipan Dana BPJS Kesehatan,35,158163,95,SD Kanisius Sorowajan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,354632,95,SD Kanisius Sorowajan
+816,211.007,Titipan Iuran YADAPEN,35,399928,95,SD Kanisius Sorowajan
+812,212.001,Titipan Dana Kesehatan,35,545349,95,SD Kanisius Sorowajan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,632643,95,SD Kanisius Sorowajan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,690777,95,SD Kanisius Sorowajan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,751824,95,SD Kanisius Sorowajan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1250000,95,SD Kanisius Sorowajan
+1371,212.002,Titipan SP,47,5403472,95,SD Kanisius Sorowajan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8400065,95,SD Kanisius Sorowajan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,21538807,95,SD Kanisius Sorowajan
+815,211.006,Titipan Dana Sosial (IDS),35,10000,86,SD Kanisius Tegal Mulyo
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,43079,86,SD Kanisius Tegal Mulyo
+816,211.007,Titipan Iuran YADAPEN,35,56391,86,SD Kanisius Tegal Mulyo
+818,211.009,Titipan Dana BPJS Kesehatan,35,74790,86,SD Kanisius Tegal Mulyo
+812,212.001,Titipan Dana Kesehatan,35,76895,86,SD Kanisius Tegal Mulyo
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,91328,86,SD Kanisius Tegal Mulyo
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,97401,86,SD Kanisius Tegal Mulyo
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,299160,86,SD Kanisius Tegal Mulyo
+1371,212.002,Titipan SP,47,795000,86,SD Kanisius Tegal Mulyo
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,3388195,86,SD Kanisius Tegal Mulyo
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200060,86,SD Kanisius Tegal Mulyo
+815,211.006,Titipan Dana Sosial (IDS),35,20000,137,SD Kanisius Totogan
+1385,211.003.20,Titipan Lain-Lain,47,20000,137,SD Kanisius Totogan
+818,211.009,Titipan Dana BPJS Kesehatan,35,118588,137,SD Kanisius Totogan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,185280,137,SD Kanisius Totogan
+816,211.007,Titipan Iuran YADAPEN,35,198079,137,SD Kanisius Totogan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,137,SD Kanisius Totogan
+812,212.001,Titipan Dana Kesehatan,35,270105,137,SD Kanisius Totogan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,342133,137,SD Kanisius Totogan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,392788,137,SD Kanisius Totogan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,474350,137,SD Kanisius Totogan
+1371,212.002,Titipan SP,47,1025000,137,SD Kanisius Totogan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1250000,137,SD Kanisius Totogan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200030,137,SD Kanisius Totogan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,10833722,137,SD Kanisius Totogan
+815,211.006,Titipan Dana Sosial (IDS),35,5000,105,SD Kanisius Trengguno
+1371,212.002,Titipan SP,47,220000,105,SD Kanisius Trengguno
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,105,SD Kanisius Trengguno
+815,211.006,Titipan Dana Sosial (IDS),35,20000,116,SD Kanisius Wates
+1385,211.003.20,Titipan Lain-Lain,47,20000,116,SD Kanisius Wates
+818,211.009,Titipan Dana BPJS Kesehatan,35,92812,116,SD Kanisius Wates
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,258861,116,SD Kanisius Wates
+816,211.007,Titipan Iuran YADAPEN,35,283912,116,SD Kanisius Wates
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,371249,116,SD Kanisius Wates
+812,212.001,Titipan Dana Kesehatan,35,387145,116,SD Kanisius Wates
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,490385,116,SD Kanisius Wates
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,548781,116,SD Kanisius Wates
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2008894,116,SD Kanisius Wates
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,2800093,116,SD Kanisius Wates
+1371,212.002,Titipan SP,47,4354166,116,SD Kanisius Wates
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,13661243,116,SD Kanisius Wates
+815,211.006,Titipan Dana Sosial (IDS),35,42500,83,SD Kanisius Wirobrajan I
+1385,211.003.20,Titipan Lain-Lain,47,60000,83,SD Kanisius Wirobrajan I
+818,211.009,Titipan Dana BPJS Kesehatan,35,190590,83,SD Kanisius Wirobrajan I
+816,211.007,Titipan Iuran YADAPEN,35,371903,83,SD Kanisius Wirobrajan I
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,398880,83,SD Kanisius Wirobrajan I
+812,212.001,Titipan Dana Kesehatan,17,437850,83,SD Kanisius Wirobrajan I
+812,212.001,Titipan Dana Kesehatan,35,507129,83,SD Kanisius Wirobrajan I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,642364,83,SD Kanisius Wirobrajan I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,762355,83,SD Kanisius Wirobrajan I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,845624,83,SD Kanisius Wirobrajan I
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1325000,83,SD Kanisius Wirobrajan I
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2008859,83,SD Kanisius Wirobrajan I
+1371,212.002,Titipan SP,47,5483334,83,SD Kanisius Wirobrajan I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,9800120,83,SD Kanisius Wirobrajan I
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,18950823,83,SD Kanisius Wirobrajan I
+815,211.006,Titipan Dana Sosial (IDS),35,30000,102,SD Kanisius Wonosari II
+818,211.009,Titipan Dana BPJS Kesehatan,35,156210,102,SD Kanisius Wonosari II
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,218805,102,SD Kanisius Wonosari II
+816,211.007,Titipan Iuran YADAPEN,35,238872,102,SD Kanisius Wonosari II
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,102,SD Kanisius Wonosari II
+812,212.001,Titipan Dana Kesehatan,35,325731,102,SD Kanisius Wonosari II
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,412592,102,SD Kanisius Wonosari II
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,463865,102,SD Kanisius Wonosari II
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,624852,102,SD Kanisius Wonosari II
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1325080,102,SD Kanisius Wonosari II
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1539410,102,SD Kanisius Wonosari II
+1371,212.002,Titipan SP,47,5385512,102,SD Kanisius Wonosari II
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8400160,102,SD Kanisius Wonosari II
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,11463468,102,SD Kanisius Wonosari II
+1385,211.003.20,Titipan Lain-Lain,47,20000,145,SMP Kanisius Bambanglipuro
+815,211.006,Titipan Dana Sosial (IDS),35,25000,145,SMP Kanisius Bambanglipuro
+814,211.005,Titipan PPH 21,45,34800,145,SMP Kanisius Bambanglipuro
+818,211.009,Titipan Dana BPJS Kesehatan,35,45568,145,SMP Kanisius Bambanglipuro
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,128986,145,SMP Kanisius Bambanglipuro
+816,211.007,Titipan Iuran YADAPEN,35,154717,145,SMP Kanisius Bambanglipuro
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,182271,145,SMP Kanisius Bambanglipuro
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,145,SMP Kanisius Bambanglipuro
+812,212.001,Titipan Dana Kesehatan,35,210975,145,SMP Kanisius Bambanglipuro
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,267236,145,SMP Kanisius Bambanglipuro
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,273449,145,SMP Kanisius Bambanglipuro
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,2625000,145,SMP Kanisius Bambanglipuro
+1371,212.002,Titipan SP,47,2860000,145,SMP Kanisius Bambanglipuro
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,8160000,145,SMP Kanisius Bambanglipuro
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,8745146,145,SMP Kanisius Bambanglipuro
+1385,211.003.20,Titipan Lain-Lain,47,20000,140,SMP Kanisius Gayam
+814,211.005,Titipan PPH 21,45,21000,140,SMP Kanisius Gayam
+815,211.006,Titipan Dana Sosial (IDS),35,40000,140,SMP Kanisius Gayam
+818,211.009,Titipan Dana BPJS Kesehatan,35,122880,140,SMP Kanisius Gayam
+816,211.007,Titipan Iuran YADAPEN,35,342206,140,SMP Kanisius Gayam
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,349020,140,SMP Kanisius Gayam
+812,212.001,Titipan Dana Kesehatan,35,466632,140,SMP Kanisius Gayam
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,491519,140,SMP Kanisius Gayam
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,591070,140,SMP Kanisius Gayam
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,739921,140,SMP Kanisius Gayam
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1325000,140,SMP Kanisius Gayam
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2152817,140,SMP Kanisius Gayam
+1371,212.002,Titipan SP,47,4181950,140,SMP Kanisius Gayam
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,12020000,140,SMP Kanisius Gayam
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,18261921,140,SMP Kanisius Gayam
+815,211.006,Titipan Dana Sosial (IDS),35,32500,142,SMP Kanisius Kalasan
+814,211.005,Titipan PPH 21,45,55200,142,SMP Kanisius Kalasan
+818,211.009,Titipan Dana BPJS Kesehatan,35,187050,142,SMP Kanisius Kalasan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,324240,142,SMP Kanisius Kalasan
+816,211.007,Titipan Iuran YADAPEN,35,358746,142,SMP Kanisius Kalasan
+812,212.001,Titipan Dana Kesehatan,35,489192,142,SMP Kanisius Kalasan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,619642,142,SMP Kanisius Kalasan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,687379,142,SMP Kanisius Kalasan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,840832,142,SMP Kanisius Kalasan
+1371,212.002,Titipan SP,47,1660000,142,SMP Kanisius Kalasan
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,2136604,142,SMP Kanisius Kalasan
+1385,211.003.20,Titipan Lain-Lain,47,2650000,142,SMP Kanisius Kalasan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,10920060,142,SMP Kanisius Kalasan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,18340164,142,SMP Kanisius Kalasan
+814,211.005,Titipan PPH 21,45,10800,141,SMP Kanisius Pakem
+815,211.006,Titipan Dana Sosial (IDS),35,17500,141,SMP Kanisius Pakem
+818,211.009,Titipan Dana BPJS Kesehatan,35,48090,141,SMP Kanisius Pakem
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,138960,141,SMP Kanisius Pakem
+816,211.007,Titipan Iuran YADAPEN,35,147940,141,SMP Kanisius Pakem
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,192359,141,SMP Kanisius Pakem
+812,212.001,Titipan Dana Kesehatan,35,201735,141,SMP Kanisius Pakem
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,141,SMP Kanisius Pakem
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,255531,141,SMP Kanisius Pakem
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,294591,141,SMP Kanisius Pakem
+1371,212.002,Titipan SP,47,450000,141,SMP Kanisius Pakem
+1385,211.003.20,Titipan Lain-Lain,47,1476800,141,SMP Kanisius Pakem
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1883056,141,SMP Kanisius Pakem
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,6186569,141,SMP Kanisius Pakem
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,6460000,141,SMP Kanisius Pakem
+814,211.005,Titipan PPH 21,45,11400,144,SMP Kanisius Sleman
+815,211.006,Titipan Dana Sosial (IDS),35,20000,144,SMP Kanisius Sleman
+1385,211.003.20,Titipan Lain-Lain,47,20000,144,SMP Kanisius Sleman
+818,211.009,Titipan Dana BPJS Kesehatan,35,115800,144,SMP Kanisius Sleman
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,144,SMP Kanisius Sleman
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,231600,144,SMP Kanisius Sleman
+816,211.007,Titipan Iuran YADAPEN,35,244898,144,SMP Kanisius Sleman
+812,212.001,Titipan Dana Kesehatan,35,333948,144,SMP Kanisius Sleman
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,423000,144,SMP Kanisius Sleman
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,463195,144,SMP Kanisius Sleman
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,490985,144,SMP Kanisius Sleman
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,620000,144,SMP Kanisius Sleman
+1371,212.002,Titipan SP,47,1911112,144,SMP Kanisius Sleman
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,2575000,144,SMP Kanisius Sleman
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,13691946,144,SMP Kanisius Sleman
+815,211.006,Titipan Dana Sosial (IDS),35,20000,143,SMP Kanisius Wonosari
+814,211.005,Titipan PPH 21,45,22200,143,SMP Kanisius Wonosari
+818,211.009,Titipan Dana BPJS Kesehatan,35,44288,143,SMP Kanisius Wonosari
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,87522,143,SMP Kanisius Wonosari
+816,211.007,Titipan Iuran YADAPEN,35,99525,143,SMP Kanisius Wonosari
+812,212.001,Titipan Dana Kesehatan,35,135714,143,SMP Kanisius Wonosari
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,171905,143,SMP Kanisius Wonosari
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,185546,143,SMP Kanisius Wonosari
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,259123,143,SMP Kanisius Wonosari
+812,212.001,Titipan Dana Kesehatan,17,280650,143,SMP Kanisius Wonosari
+1371,212.002,Titipan SP,47,450000,143,SMP Kanisius Wonosari
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,2575000,143,SMP Kanisius Wonosari
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5846369,143,SMP Kanisius Wonosari
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,6380080,143,SMP Kanisius Wonosari
+815,211.006,Titipan Dana Sosial (IDS),35,5000,101,TK Kanisius Baleharjo
+818,211.009,Titipan Dana BPJS Kesehatan,35,22165,101,TK Kanisius Baleharjo
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,43761,101,TK Kanisius Baleharjo
+816,211.007,Titipan Iuran YADAPEN,35,47749,101,TK Kanisius Baleharjo
+812,212.001,Titipan Dana Kesehatan,35,65112,101,TK Kanisius Baleharjo
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,82475,101,TK Kanisius Baleharjo
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,88658,101,TK Kanisius Baleharjo
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,92773,101,TK Kanisius Baleharjo
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,101,TK Kanisius Baleharjo
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300000,101,TK Kanisius Baleharjo
+1371,212.002,Titipan SP,47,2007778,101,TK Kanisius Baleharjo
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2640487,101,TK Kanisius Baleharjo
+815,211.006,Titipan Dana Sosial (IDS),35,2500,108,TK Kanisius Bandung I
+1371,212.002,Titipan SP,47,200000,108,TK Kanisius Bandung I
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,108,TK Kanisius Bandung I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500000,108,TK Kanisius Bandung I
+815,211.006,Titipan Dana Sosial (IDS),35,17500,132,TK Kanisius Demangan Baru
+818,211.009,Titipan Dana BPJS Kesehatan,35,47095,132,TK Kanisius Demangan Baru
+1385,211.003.20,Titipan Lain-Lain,47,60000,132,TK Kanisius Demangan Baru
+816,211.007,Titipan Iuran YADAPEN,35,91435,132,TK Kanisius Demangan Baru
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,99720,132,TK Kanisius Demangan Baru
+812,212.001,Titipan Dana Kesehatan,35,124683,132,TK Kanisius Demangan Baru
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,157932,132,TK Kanisius Demangan Baru
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,188378,132,TK Kanisius Demangan Baru
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,211406,132,TK Kanisius Demangan Baru
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,132,TK Kanisius Demangan Baru
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1250000,132,TK Kanisius Demangan Baru
+1371,212.002,Titipan SP,47,1636112,132,TK Kanisius Demangan Baru
+866,5.1.2.02,Gaji Karyawan Tetap Yayasan,16,1883000,132,TK Kanisius Demangan Baru
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,2800065,132,TK Kanisius Demangan Baru
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,3008268,132,TK Kanisius Demangan Baru
+1385,211.003.20,Titipan Lain-Lain,47,20000,89,TK Kanisius Immaculata Ganjuran
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,44329,89,TK Kanisius Immaculata Ganjuran
+818,211.009,Titipan Dana BPJS Kesehatan,35,45393,89,TK Kanisius Immaculata Ganjuran
+816,211.007,Titipan Iuran YADAPEN,35,52539,89,TK Kanisius Immaculata Ganjuran
+812,212.001,Titipan Dana Kesehatan,35,71643,89,TK Kanisius Immaculata Ganjuran
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,90748,89,TK Kanisius Immaculata Ganjuran
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,93978,89,TK Kanisius Immaculata Ganjuran
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,181571,89,TK Kanisius Immaculata Ganjuran
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,89,TK Kanisius Immaculata Ganjuran
+1371,212.002,Titipan SP,47,250000,89,TK Kanisius Immaculata Ganjuran
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,1300091,89,TK Kanisius Immaculata Ganjuran
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,89,TK Kanisius Immaculata Ganjuran
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2933113,89,TK Kanisius Immaculata Ganjuran
+815,211.006,Titipan Dana Sosial (IDS),35,12500,130,TK Kanisius Indriya Bhakti Sengkan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,46320,130,TK Kanisius Indriya Bhakti Sengkan
+818,211.009,Titipan Dana BPJS Kesehatan,35,48090,130,TK Kanisius Indriya Bhakti Sengkan
+816,211.007,Titipan Iuran YADAPEN,35,60914,130,TK Kanisius Indriya Bhakti Sengkan
+812,212.001,Titipan Dana Kesehatan,35,83064,130,TK Kanisius Indriya Bhakti Sengkan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,98197,130,TK Kanisius Indriya Bhakti Sengkan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,105214,130,TK Kanisius Indriya Bhakti Sengkan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,192359,130,TK Kanisius Indriya Bhakti Sengkan
+1371,212.002,Titipan SP,47,200000,130,TK Kanisius Indriya Bhakti Sengkan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,130,TK Kanisius Indriya Bhakti Sengkan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,3388828,130,TK Kanisius Indriya Bhakti Sengkan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,5550060,130,TK Kanisius Indriya Bhakti Sengkan
+815,211.006,Titipan Dana Sosial (IDS),35,2500,122,TK Kanisius Jetis Depok
+816,211.007,Titipan Iuran YADAPEN,35,44333,122,TK Kanisius Jetis Depok
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,46320,122,TK Kanisius Jetis Depok
+812,212.001,Titipan Dana Kesehatan,35,60453,122,TK Kanisius Jetis Depok
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,76574,122,TK Kanisius Jetis Depok
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,98197,122,TK Kanisius Jetis Depok
+1371,212.002,Titipan SP,47,200000,122,TK Kanisius Jetis Depok
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,122,TK Kanisius Jetis Depok
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2485106,122,TK Kanisius Jetis Depok
+815,211.006,Titipan Dana Sosial (IDS),35,7500,134,TK Kanisius Kadirojo
+818,211.009,Titipan Dana BPJS Kesehatan,35,23160,134,TK Kanisius Kadirojo
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,49860,134,TK Kanisius Kadirojo
+816,211.007,Titipan Iuran YADAPEN,35,52539,134,TK Kanisius Kadirojo
+812,212.001,Titipan Dana Kesehatan,35,71643,134,TK Kanisius Kadirojo
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,90748,134,TK Kanisius Kadirojo
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,92639,134,TK Kanisius Kadirojo
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,105703,134,TK Kanisius Kadirojo
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,134,TK Kanisius Kadirojo
+1371,212.002,Titipan SP,47,1496388,134,TK Kanisius Kadirojo
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2933102,134,TK Kanisius Kadirojo
+815,211.006,Titipan Dana Sosial (IDS),35,10000,136,TK Kanisius Kalasan
+818,211.009,Titipan Dana BPJS Kesehatan,35,24930,136,TK Kanisius Kalasan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,92640,136,TK Kanisius Kalasan
+816,211.007,Titipan Iuran YADAPEN,35,96872,136,TK Kanisius Kalasan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,99720,136,TK Kanisius Kalasan
+812,212.001,Titipan Dana Kesehatan,35,132096,136,TK Kanisius Kalasan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,167322,136,TK Kanisius Kalasan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,196394,136,TK Kanisius Kalasan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,136,TK Kanisius Kalasan
+1371,212.002,Titipan SP,47,575000,136,TK Kanisius Kalasan
+1385,211.003.20,Titipan Lain-Lain,47,1387000,136,TK Kanisius Kalasan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5318238,136,TK Kanisius Kalasan
+815,211.006,Titipan Dana Sosial (IDS),35,2500,104,TK Kanisius Kaliwuluh
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,104,TK Kanisius Kaliwuluh
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1425000,104,TK Kanisius Kaliwuluh
+815,211.006,Titipan Dana Sosial (IDS),35,7500,76,TK Kanisius Kintelan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,76,TK Kanisius Kintelan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,650000,76,TK Kanisius Kintelan
+1371,212.002,Titipan SP,47,920000,76,TK Kanisius Kintelan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,76,TK Kanisius Kintelan
+815,211.006,Titipan Dana Sosial (IDS),35,10000,120,TK Kanisius Klepu
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,120,TK Kanisius Klepu
+1371,212.002,Titipan SP,47,720834,120,TK Kanisius Klepu
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,2975000,120,TK Kanisius Klepu
+815,211.006,Titipan Dana Sosial (IDS),35,5000,78,TK Kanisius Kotabaru
+818,211.009,Titipan Dana BPJS Kesehatan,35,24930,78,TK Kanisius Kotabaru
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,49860,78,TK Kanisius Kotabaru
+816,211.007,Titipan Iuran YADAPEN,35,52539,78,TK Kanisius Kotabaru
+812,212.001,Titipan Dana Kesehatan,35,71643,78,TK Kanisius Kotabaru
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,90748,78,TK Kanisius Kotabaru
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,99720,78,TK Kanisius Kotabaru
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,105703,78,TK Kanisius Kotabaru
+1371,212.002,Titipan SP,47,720834,78,TK Kanisius Kotabaru
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,78,TK Kanisius Kotabaru
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2858172,78,TK Kanisius Kotabaru
+818,211.009,Titipan Dana BPJS Kesehatan,35,24930,80,TK Kanisius Kumendaman
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,49860,80,TK Kanisius Kumendaman
+816,211.007,Titipan Iuran YADAPEN,35,52539,80,TK Kanisius Kumendaman
+812,212.001,Titipan Dana Kesehatan,35,71643,80,TK Kanisius Kumendaman
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,90748,80,TK Kanisius Kumendaman
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,99720,80,TK Kanisius Kumendaman
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,105703,80,TK Kanisius Kumendaman
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,80,TK Kanisius Kumendaman
+1371,212.002,Titipan SP,47,405556,80,TK Kanisius Kumendaman
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,80,TK Kanisius Kumendaman
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2858172,80,TK Kanisius Kumendaman
+815,211.006,Titipan Dana Sosial (IDS),35,5000,127,TK Kanisius Minggir
+1371,212.002,Titipan SP,47,165000,127,TK Kanisius Minggir
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500000,127,TK Kanisius Minggir
+815,211.006,Titipan Dana Sosial (IDS),35,5000,82,TK Kanisius Notoyudan
+818,211.009,Titipan Dana BPJS Kesehatan,35,24930,82,TK Kanisius Notoyudan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,99720,82,TK Kanisius Notoyudan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,82,TK Kanisius Notoyudan
+1371,212.002,Titipan SP,47,315000,82,TK Kanisius Notoyudan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500030,82,TK Kanisius Notoyudan
+815,211.006,Titipan Dana Sosial (IDS),35,5000,125,TK Kanisius Pingitan
+1371,212.002,Titipan SP,47,150000,125,TK Kanisius Pingitan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,125,TK Kanisius Pingitan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,125,TK Kanisius Pingitan
+815,211.006,Titipan Dana Sosial (IDS),35,2500,113,TK Kanisius Promasan
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,113,TK Kanisius Promasan
+1371,212.002,Titipan SP,47,285278,113,TK Kanisius Promasan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1425000,113,TK Kanisius Promasan
+815,211.006,Titipan Dana Sosial (IDS),35,7500,100,TK Kanisius Pulutan I
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,100000,100,TK Kanisius Pulutan I
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,172079,100,TK Kanisius Pulutan I
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,185546,100,TK Kanisius Pulutan I
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,262566,100,TK Kanisius Pulutan I
+1376,211.003.09,Titipan Dana Kegiatan,47,300000,100,TK Kanisius Pulutan I
+1371,212.002,Titipan SP,47,560000,100,TK Kanisius Pulutan I
+815,211.006,Titipan Dana Sosial (IDS),35,2500,92,TK Kanisius Pusporini Pijenan
+818,211.009,Titipan Dana BPJS Kesehatan,35,23160,92,TK Kanisius Pusporini Pijenan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,92639,92,TK Kanisius Pusporini Pijenan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,92,TK Kanisius Pusporini Pijenan
+1371,212.002,Titipan SP,47,260000,92,TK Kanisius Pusporini Pijenan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500060,92,TK Kanisius Pusporini Pijenan
+815,211.006,Titipan Dana Sosial (IDS),35,2500,98,TK Kanisius Santa Agnes Beji
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,98,TK Kanisius Santa Agnes Beji
+1371,212.002,Titipan SP,47,250000,98,TK Kanisius Santa Agnes Beji
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500000,98,TK Kanisius Santa Agnes Beji
+815,211.006,Titipan Dana Sosial (IDS),35,7500,96,TK Kanisius Sorowajan
+818,211.009,Titipan Dana BPJS Kesehatan,35,45325,96,TK Kanisius Sorowajan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,82666,96,TK Kanisius Sorowajan
+816,211.007,Titipan Iuran YADAPEN,35,102004,96,TK Kanisius Sorowajan
+812,212.001,Titipan Dana Kesehatan,35,139095,96,TK Kanisius Sorowajan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,175252,96,TK Kanisius Sorowajan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,176187,96,TK Kanisius Sorowajan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,181297,96,TK Kanisius Sorowajan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,96,TK Kanisius Sorowajan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400000,96,TK Kanisius Sorowajan
+1371,212.002,Titipan SP,47,2302500,96,TK Kanisius Sorowajan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,5551590,96,TK Kanisius Sorowajan
+815,211.006,Titipan Dana Sosial (IDS),35,5000,138,TK Kanisius Totogan
+818,211.009,Titipan Dana BPJS Kesehatan,35,23160,138,TK Kanisius Totogan
+809,211.001,Titipan Dana BPJS Ketenagakerjaan,35,40020,138,TK Kanisius Totogan
+816,211.007,Titipan Iuran YADAPEN,35,44333,138,TK Kanisius Totogan
+812,212.001,Titipan Dana Kesehatan,35,60453,138,TK Kanisius Totogan
+1362,5.1.1.01,Iuran Pensiun Yadapen,36,76574,138,TK Kanisius Totogan
+1363,5.1.1.03,Iuran BPJS Tenaga Kerja,36,84842,138,TK Kanisius Totogan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,92639,138,TK Kanisius Totogan
+1376,211.003.09,Titipan Dana Kegiatan,47,250000,138,TK Kanisius Totogan
+1371,212.002,Titipan SP,47,1101388,138,TK Kanisius Totogan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1400060,138,TK Kanisius Totogan
+865,5.1.2.01,Gaji Guru Tetap Yayasan,16,2560106,138,TK Kanisius Totogan
+815,211.006,Titipan Dana Sosial (IDS),35,2500,117,TK Kanisius Wates
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,1500000,117,TK Kanisius Wates
+815,211.006,Titipan Dana Sosial (IDS),35,10000,84,TK Kanisius Wirobrajan
+818,211.009,Titipan Dana BPJS Kesehatan,35,23160,84,TK Kanisius Wirobrajan
+1348,5.1.1.02,Iuran BPJS Kesehatan,36,92639,84,TK Kanisius Wirobrajan
+812,212.001,Titipan Dana Kesehatan,35,131575,84,TK Kanisius Wirobrajan
+868,5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,16,175000,84,TK Kanisius Wirobrajan
+1371,212.002,Titipan SP,47,2613334,84,TK Kanisius Wirobrajan
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,4200060,84,TK Kanisius Wirobrajan
+815,211.006,Titipan Dana Sosial (IDS),35,7500,115,TK Maria Mater Dei Bonoharjo
+1376,211.003.09,Titipan Dana Kegiatan,47,200000,115,TK Maria Mater Dei Bonoharjo
+1371,212.002,Titipan SP,47,325000,115,TK Maria Mater Dei Bonoharjo
+867,5.1.2.03,Gaji Guru Tidak Tetap Yayasan,16,2850000,115,TK Maria Mater Dei Bonoharjo

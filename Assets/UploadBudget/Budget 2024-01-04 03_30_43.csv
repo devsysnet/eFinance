@@ -1,0 +1,99 @@
+Kode_Akun,Nama_Akun,Nilai
+113.01.001,Piutang Formulir Pendaftaran Peserta Didik Baru,10000
+113.01.006,Piutang Uang Pangkal,10000
+113.01.009,Piutang Pemeliharaan Gedung Peserta Didik Baru,10000
+113.01.011,Piutang Sumbangan Pembinaan Pendidikan (SPP),10000
+113.01.016,Piutang Kegiatan Tahunan,10000
+113.01.021,Piutang Ekskul,10000
+115.01.000,Uang Muka Permintaan Dana,10000
+115.02.000,Uang Muka Lain-lain,10000
+120.01.001,Tanah Jalan Juanda,10000
+120.01.002,Tanah Jalan Pengadilan,10000
+220.02.000,Dana Pinjaman Karyawan,10000
+501.01.001,Air,10000
+501.02.001,Gas,10000
+501.03.001,Listrik,10000
+501.04.001,Telepon,10000
+501.04.002,Koneksi Internet,10000
+501.05.001,Biaya Alat Tulis Kantor (Kertas; Pulpen; Tinta Printer; Materai; dll),10000
+501.05.002,Biaya Pengiriman Dokumen,10000
+501.05.003,Biaya Komunikasi (Pulsa; Kuota),10000
+501.05.004,Biaya Langganan Perangkat Lunak (Canva; Midtrans),10000
+501.05.005,Biaya Fotocopy,10000
+501.05.006,Biaya Admin Uang Sekolah,10000
+501.06.001,Biaya Iklan,10000
+501.06.002,Biaya Promosi,10000
+501.07.001,Biaya Bahan Bakar; Tol; Parkir,10000
+501.08.001,Sewa Gedung,10000
+501.08.002,Sewa Kendaraan,10000
+501.08.003,Sewa Peralatan,10000
+501.09.001,Pemeliharaan Gedung,10000
+501.09.002,Pemeliharaan Rumah Budaya,10000
+501.09.003,Pemeliharaan Kendaraan Mobil Innova,10000
+501.09.004,Pemeliharaan Kendaraan Hiace,10000
+501.09.005,Pemeliharaan Peralatan ,10000
+501.09.006,Pemeliharaan Furniture dan Meubel,10000
+501.09.007,Pemeliharaan Perlengkapan,10000
+501.10.001,Biaya Pajak Bumi Bangunan,10000
+501.10.002,Biaya Pajak PPh 23 Badan,10000
+501.10.003,Biaya Pajak PPn,10000
+501.10.004,Biaya Pajak Lainnya,10000
+501.11.001,Biaya Konsultasi Pajak,10000
+501.12.001,Gaji Pokok,10000
+501.12.002,Tunj. Istri/Anak,10000
+501.12.003,Tunj. Beras,10000
+501.12.004,Tunj. Jabatan,10000
+501.12.005,Tunj. Fungsional/Non Guru,10000
+501.12.006,Tunj. Khusus,10000
+501.12.007,Tunj. Wali Kelas/Dobel Kelas/Guru Bantu,10000
+501.12.008,Tunj. Yadapen,10000
+501.12.009,Tunj. BPJS Kesehatan,10000
+501.12.010,Tunj. BPJS Ketenagakerjaan,10000
+501.12.011,Tunj. Kesehatan Dibayar Sendiri,10000
+501.12.012,Tunj. lain-lain,10000
+501.12.013,Honor Jasa Hadir,10000
+501.12.014,Honor Kegiatan Agama,10000
+501.12.015,Honor Jam Lebih/ Lembur,10000
+501.12.016,Honor Ekstrakulikuler,10000
+501.12.017,Honor Mengganti Guru,10000
+501.12.018,Honor Mengajar Lain-lain,10000
+501.12.019,Lain-lain,10000
+501.12.020,Tunj. Hari Raya,10000
+501.12.021,Bonus,10000
+501.13.001,Makan Siang Guru dan Karyawan,10000
+501.14.001,Kesejahteraan Karyawan,10000
+501.15.001,Seragam Karyawan,10000
+501.16.001,Biaya Peningkatan Profesi dan Rohani (Retret; Rekoleksi; Diklat; Seminar; Assesment),10000
+501.16.002,Biaya Dinas Di dalam Kota atau Luar Kota,10000
+501.17.001,Seragam Sekolah,10000
+501.17.002,Seragam Batik RP,10000
+501.17.003,Atribut Seragam,10000
+501.18.001,Biaya Operasional Fotocopy,10000
+501.19.001,Perpustakaan (Langganan Koran; Majalah),10000
+501.20.001,Buku Pegangan Guru,10000
+501.21.001,Biaya Keperluan Laboratorium,10000
+501.22.001,Biaya Perlengkapan Rumah Tangga,10000
+501.22.002,Biaya Perlengkapan Kebun,10000
+501.22.003,Biaya Kebersihan/Penyemprotan,10000
+501.23.001,Jasa Kebersihan PT. KAS,10000
+501.23.002,Fee Management PT. KAS,10000
+501.24.001,Bantuan Pendidikan dan Lingkungan (IGTK; PGRI),10000
+501.25.001,Donasi dan Sumbangan,10000
+501.26.001,Kegiatan Sekolah,10000
+501.27.001,Iuran Jasa Komputer,10000
+501.27.002,Buku Komputer,10000
+501.28.001,Iuran Bahasa Inggris,10000
+501.28.002,Buku Bhs. Inggris,10000
+501.29.001,Iuran Bahasa Mandarin,10000
+501.29.002,Management Fee Bahasa Mandarin,10000
+501.30.001,Ekskul,10000
+501.31.001,LIVE IN,10000
+501.32.001,Uang Kegiatan,10000
+501.33.001,Biaya Penyusutan Gedung Sekolah,10000
+501.33.002,Biaya Penyusutan Rumah Budaya,10000
+501.33.003,Biaya Penyusutan Kendaraan Mobil Hiace,10000
+501.33.004,Biaya Penyusutan Kendaraan Mobil Innova,10000
+501.33.005,Biaya Penyusutan Peralatan,10000
+501.33.006,Biaya Penyusutan Furniture dan Meubel,10000
+501.33.007,Biaya Penyusutan Perlengkapan,10000
+700.02.001,Biaya Administrasi Bank,10000

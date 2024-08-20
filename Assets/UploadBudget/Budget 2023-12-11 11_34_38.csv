@@ -1,0 +1,210 @@
+Kode_Akun,Nama_Akun,Qty,Satuan,HargaSatuan,Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,November,Desember
+4.2.1.1.01,Bosnas Semester 1 (Juli-Desember),0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.1.02,Bosnas Semester 2 (Januari-Juni),0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.2.01,BOP Semester 1 (Juli-Desember),0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.2.02,BOP Semester 2 (Januari-Juni),0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.3,BANSOS/DAK/Hibah,0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.4.01,UN,0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.1.4.02,APBN Lain,0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.2.1.01,Bosda Semester 1 (Juli-Desember),0,,0,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000,10000000
+4.2.2.1.02,Bosda Semester 2 (Januari-Juni),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2.2.2,Gaji Guru dan Karyawan DPK,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2.2.3,Bantuan Lain-lain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.1.01,Pendapatan Koperasi Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.1.02,Pendapatan Kantin Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.2.01,Sumbangan dari Orang Tua,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.2.02,Sumbangan dari Alumni,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.2.03,Sumbangan dari Gereja,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.3.2.04,Sumbangan Lainnya,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1.1.01,Iuran Pensiun Yadapen,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1.1.02,Iuran BPJS Kesehatan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1.1.03,Iuran BPJS Tenaga Kerja,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.2.01,Gaji Guru Tetap Yayasan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.2.02,Gaji Karyawan Tetap Yayasan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.2.03,Gaji Guru Tidak Tetap Yayasan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.2.04,Gaji Karyawan Tidak Tetap Yayasan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.3.01,Pembayaran Honor Guru / Guru Ekstrakurikuler,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.3.02,Pembayaran Honor Tenaga Kependidikan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.3.03,Pembayaran Honor Kelebihan Mengajar,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.4.01,Pembayaran Honor Guru / Guru Ekstrakurikuler,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.4.02,Pembayaran Honor Tenaga Kependidikan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.1.4.03,Pembayaran Honor Kelebihan Mengajar,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.1.01,Penyusunan Aneka Pedoman Belajar,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.1.02,Pelaksanaan Kegiatan Pengembangan Siswa,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.1.03,Pelaksanaan Penunjang Pembelajaran,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.2.01,Penyusunan Program Perpustakaan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.2.02,Penyusunan Program Rutin Pembelajaran,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.2.03,Penyusunan Program Pengelolaan Laboratorium,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.2.04,Penyusunan Program Ekstrakurikuler,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.2.05,Pengadaan Buku LKS/Majalah,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.01,Pengelolaan Media Pembelajaran Cetak,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.02,Pelaksanaan Program Kesiswaan,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.03,Pelaksanaan Pendaftaran Peserta Didik Baru (PPDB),0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.04,Pengadaan Sarana Penunjang Kegiatan Belajar Mengajar,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.05,Pendataan Dapodik,0,,0,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+5.2.3.06,Usaha Kesehatan Sekolah (UKS); Peralatan dan/atau Obat-obatan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.3.07,Peningkatan Kompetensi Guru,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.3.08,Pengembangan Inovasi Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.3.09,Bantuan Siswa Miskin,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.4.01,Pembinaan Pendidik,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.4.02,Pembinaan Tenaga Kependidikan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.4.03,Pembinaan Administrasi Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.4.04,Pembuatan Media Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.01,Pengadaan Peralatan / Perlengkapan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.02,Pengadaan / Peningkatan Instalasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.03,Pengembangan Database Perpustakaan dan Perpustakaan Elektronik (e - library),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.04,Pengadaan Sarana Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.05,Pengadaan Mebelair,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.06,Pembangunan / Penambahan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.07,Pemeliharaan Peralatan / Perlengkapan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.08,Pemeliharaan Instalasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.09,Pemeliharaan Sarana Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.10,Pemeliharaan Mebelair,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.11,Pemeliharaan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.5.12,Pemeliharaan Kebersihan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.01,Kerjasama dengan Sekolah Lain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.02,Program; Supervisi; Monitoring; Evaluasi; Laporan ,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.03,Pelaksanaan Rapat,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.04,Pengembangan Sistem Informasi Manajemen,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.05,Pengelolaan Inventaris Barang,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.6.06,Penyelenggaraan Lintas Alam,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.01,Akreditasi sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.02,Biaya transportasi untuk urusan dana BOS,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.03,Honor bagi penyusun laporan BOS,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.04,Keperluan Konsumsi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.05,Pembayaran Iuran Internet,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.06,Pembayaran Langganan Air,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.07,Pembayaran Rekening Listrik,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.08,Pembayaran Rekening Telepon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.09,Pembayaran Retribusi Keamanan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.10,Pembayaran Retribusi Sampah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.11,Pengadaan ATK,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.12,Pengadaan Kebutuhan Rumah Tangga,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.13,Pembayaran Keperluan Administrasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.14,Penyediaan Pembiayaan untuk Studi Lanjut Pendidik/Tenaga Kependidikan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.15,Penyelenggaraan Penerimaan Sumbangan Pendidikan dari Masyarakat,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.7.16,Pelaksanaan Workshop,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.8.01,Pelaksanaan Sistem Penilaian,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.8.02,Pelaksanaan Penilaian,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.8.03,Pelatihan-pelatihan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.2.8.04,Pengembangan Sekolah Hijau,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.1.01,Penyusunan Aneka Pedoman Belajar,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.1.02,Pelaksanaan Kegiatan Pengembangan Siswa,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.1.03,Pelaksanaan Penunjang Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.2.01,Penyusunan Program Perpustakaan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.2.02,Penyusunan Program Rutin Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.2.03,Penyusunan Program Pengelolaan Laboratorium,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.2.04,Penyusunan Program Ekstrakurikuler,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.2.05,Pengadaan Buku LKS/Majalah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.01,Pengelolaan Media Pembelajaran Cetak,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.02,Pelaksanaan Program Kesiswaan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.03,Pelaksanaan Pendaftaran Peserta Didik Baru (PPDB),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.04,Pengadaan Sarana Penunjang Kegiatan Belajar Mengajar,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.05,Pendataan Dapodik,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.06,Usaha Kesehatan Sekolah (UKS); Peralatan dan/atau Obat-obatan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.07,Peningkatan Kompetensi Guru,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.08,Pengembangan Inovasi Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.3.09,Bantuan Siswa Miskin,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.4.01,Pembinaan Pendidik,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.4.02,Pembinaan Tenaga Kependidikan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.4.03,Pembinaan Administrasi Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.4.04,Pembuatan Media Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.01,Pengadaan Peralatan / Perlengkapan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.02,Pengadaan / Peningkatan Instalasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.03,Pengembangan Database Perpustakaan dan Perpustakaan Elektronik (e - library),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.04,Pengadaan Sarana Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.05,Pengadaan Mebelair,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.06,Pembangunan / Penambahan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.07,Pemeliharaan Peralatan / Perlengkapan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.08,Pemeliharaan Instalasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.09,Pemeliharaan Sarana Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.10,Pemeliharaan Mebelair,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.11,Pemeliharaan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.5.12,Pemeliharaan Kebersihan Bangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.01,Kerjasama dengan Sekolah Lain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.02,Program; Supervisi; Monitoring; Evaluasi; Laporan ,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.03,Pelaksanaan Rapat,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.04,Pengembangan Sistem Informasi Manajemen,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.05,Pengelolaan Inventaris Barang,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.6.06,Penyelenggaraan Lintas Alam,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.01,Akreditasi sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.02,Biaya transportasi untuk urusan dana BOS,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.03,Honor bagi penyusun laporan BOS,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.04,Keperluan Konsumsi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.05,Pembayaran Iuran Internet,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.06,Pembayaran Langganan Air,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.07,Pembayaran Rekening Listrik,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.08,Pembayaran Rekening Telepon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.09,Pembayaran Retribusi Keamanan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.10,Pembayaran Retribusi Sampah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.11,Pengadaan ATK,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.12,Pengadaan Kebutuhan Rumah Tangga,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.13,Pembayaran Keperluan Administrasi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.14,Penyediaan Pembiayaan untuk Studi Lanjut Pendidik/Tenaga Kependidikan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.15,Penyelenggaraan Penerimaan Sumbangan Pendidikan dari Masyarakat,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.7.16,Pelaksanaan Workshop,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.8.01,Pelaksanaan Sistem Penilaian,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.8.02,Pelaksanaan Penilaian,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.8.03,Pelatihan-pelatihan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3.8.04,Pengembangan Sekolah Hijau,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.01,Komputer,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.02,Kegiatan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.03,Komite,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.04,Alat,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.05,Pembangunan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.06.01,Penyediaan APE,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.06.02,Penyediaan dan/atau alat Multimedia Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.06.03,Penyediaan Bahan Pendukung Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.06.04,Penyediaan Laporan Capaian Tingkat Perkembangan Anak,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.06.05,Pengelolaan dan Operasional Rutin Satuan Pendindikan ,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.07.01,Penyediaan APE,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.07.02,Penyediaan dan/atau alat Multimedia Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.07.03,Penyediaan Bahan Pendukung Pembelajaran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.07.04,Penyediaan Laporan Capaian Tingkat Perkembangan Anak,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.07.05,Pengelolaan dan Operasional Rutin Satuan Pendindikan ,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.4.08,Pengelolaan Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.5.04,ADVEN/APP/5 ROTI 2 IKAN/ KOLEKTE,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.5.06,TITIPAN DI YKC,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6.01,Beasiswa SPP,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6.02,Beasiswa USPP,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6.03,Pengembangan Program Kewirausahaan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6.04,Operasional Asrama,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.01,Belanja Barang Sekolah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.02,Biaya Pos Paket,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.03,Biaya Listrik;Telp;Internet dan Air,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.04,Biaya Makan/Snack/Buah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.05,Biaya Rapat/Pertemuan Dinas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.06,Biaya Retret/Penataran,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.07,Biaya Perjalanan Dinas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.08,Biaya Urusan Tanah (IMB/HGB),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.09,Biaya ATK,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.10,Biaya Tamu,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.11,Biaya Kebersihan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.1.12,Belanja Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.2.01,Biaya Pajak dan Penjualan Tanah,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.2.02,Biaya Pajak Penghasilan (SKPKB),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.2.03,Biaya PPH Final Jasa Konstruksi,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.2.04,Biaya Pajak Bumi dan Bangunan (PBB),0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.2.05,Biaya Pajak Kendaraan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.01,Biaya Material Pemeliharaan Gedung,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.02,Biaya Jasa Pemeliharaan Gedung,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.03,Biaya Material Pemeliharaan Kendaraan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.04,Biaya Jasa Pemeliharaan Kendaraan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.05,Biaya Material Pemeliharaan Peralatan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.3.06,Biaya Jasa Pemeliharaan Peralatan Kantor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.4.01,Biaya Penyusutan Gedung,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.4.02,Biaya Penyusutan Kendaraan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.4.03,Biaya Penyusutan Inventaris ,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.5.01,Biaya Uang Duka,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7.5.02,Biaya Sumbangan Lain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8.01,Pengembangan Ketrampilan dan Pengetahuan,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8.02,Biaya Studi Lanjut,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8.03,Biaya Pengembangan Kerohanian,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8.04,Biaya Kursus Persiapan Pensiun,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.9.01,Biaya Operasional Sekolah Penggerak,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1.01,Pendapatan Jasa Giro,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1.02,Pendapatan Jasa Deposito,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1.03,Pendapatan Bunga Bank,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1.04,Pendapatan Lainnya,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2.01,Biaya Administrasi Bank,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2.02,Biaya lain-lain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0

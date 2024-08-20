@@ -1,0 +1,245 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WebMaster.master.cs" Inherits="eFinance.MasterPage.WebMaster" %>
+
+<%@ Register Src="~/GlobalPage/Menu.ascx" TagName="Menu" TagPrefix="objeTrading" %>
+<%@ Register Src="~/GlobalPage/Header.ascx" TagName="Header" TagPrefix="objeTrading" %>
+<%@ Register Src="~/GlobalPage/HeadMenu.ascx" TagName="HeadMenu" TagPrefix="objeTrading" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>:: eFinance ::</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="<%=Func.BaseUrl%>assets/images/shortcut-icon.png" rel="shortcut icon" type="image/x-icon" />
+
+    <link href="<%=Func.BaseUrl%>assets/stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="<%=Func.BaseUrl%>assets/stylesheets/pixel-admin.min.css" rel="stylesheet" type="text/css" />
+    <link href="<%=Func.BaseUrl%>assets/stylesheets/style.css" rel="stylesheet" type="text/css" />
+    <link href="<%=Func.BaseUrl%>assets/stylesheets/themes.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="<%=Func.BaseUrl%>assets/stylesheets/zebra.picker.css" />
+
+    <script type="text/javascript" src="<%=Func.BaseUrl%>assets/javascripts/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="<%=Func.BaseUrl%>assets/javascripts/jquery.numeric.js"></script>
+    <script type="text/javascript" src="<%=Func.BaseUrl%>assets/javascripts/zebra.picker.js"></script>
+    <script type="text/javascript" src="<%=Func.BaseUrl%>assets/javascripts/global.js"></script>
+    <script type="text/javascript" src="<%=Func.BaseUrl%>FusionCharts/FusionCharts.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="<%=Func.BaseUrl%>assets/javascripts/gridviewscroll.js"></script>
+       <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+    <script type="text/javascript">
+        function myJS(myVar) {
+            window.alert(myVar);
+        }      
+    </script>
+    <script type="text/javascript">
+
+        function ToTopOfPage(sender, args) {
+            $('html,body').animate({ scrollTop: 0 }, 500);
+        }
+
+    </script>
+    <style type="text/css">
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: black;
+            z-index: 99999999999999;
+            opacity: 0.8;
+            filter: alpha(opacity=80);
+            -moz-opacity: 0.8;
+            min-height: 100%;
+            width: 100%;
+        }
+
+        .loading {
+            font-family: Arial;
+            font-size: 10pt;
+            border: 5px solid #808080;
+            width: 200px;
+            height: 100px;
+            display: none;
+            position: fixed;
+            background-color: White;
+            z-index: 99999999999999;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
+    
+</head>
+
+<body class="theme-adminflare main-navbar-fixed main-menu-fixed">
+     <script>var init = [];</script>
+    <form id="form" runat="server" enctype="multipart/form-data">
+        <script type="text/javascript">
+            function ShowProgress() {
+                var loading = $(".loading");
+                loading.show();
+                var top = Math.max($(window).height() / 2 - loading[0].offsetHeight / 2, 0);
+                var left = Math.max($(window).width() / 2 - loading[0].offsetWidth / 2, 0);
+                loading.css({ top: top, left: left });
+            }
+            function HideProgress() {
+                var loading = $(".loading");
+                loading.hide();
+            }
+            init.push(function () {
+                //loadPhone();
+                loadCombo();
+                loadPicker();
+                loadNumeric();
+                loadNumericAll();
+                loadMoney();
+                loadPhone();
+                loadTime();
+                $('.fileupload').pixelFileInput({ placeholder: 'Tidak ada file yang dipilih.' });
+            });
+
+            /*FUNCTION HANDLER OBJECT FOR _DoPostBack()*/
+            Sys.Application.add_init(appl_init);
+            function appl_init() {
+                var pgRegMgr = Sys.WebForms.PageRequestManager.getInstance();
+                pgRegMgr.add_beginRequest(HandlerFunction);
+                pgRegMgr.add_endRequest(HandlerFunctionEnd);
+            }
+            function HandlerFunction() {
+                ShowProgress();
+                loadCombo();
+                loadPicker();
+                loadNumeric();
+                loadNumericAll();
+                loadMoney();
+                loadPhone();
+                loadTime();
+
+                $('.fileupload').pixelFileInput({ placeholder: 'Tidak ada file yang dipilih.' });
+            }
+            function HandlerFunctionEnd() {
+                HideProgress();
+                loadCombo();
+                loadPicker();
+                loadNumeric();
+                loadNumericAll();
+                loadMoney();
+                loadPhone();
+                loadTime();
+
+                $('.fileupload').pixelFileInput({ placeholder: 'Tidak ada file yang dipilih.' });
+            }
+            /*END FUNCTION HANDLER OBJECT FOR _DoPostBack()*/
+        </script>
+        <div id="main-wrapper" style="margin-bottom: 20px;">
+            <asp:ScriptManager ID="ScriptManager" runat="server" AsyncPostBackTimeout="7200"></asp:ScriptManager>
+            <%--<asp:ScriptManager id="scriptManager1" AsyncPostBackTimeout="300" runat="server" ScriptMode="Release" EnablePageMethods="true" EnablePartialRendering="true"/>--%>
+            <%--<asp:UpdateProgress ID="UpdateProgress" runat="server" AssociatedUpdatePanelID="panelAjax">
+                <ProgressTemplate>
+                    <div class="modal-progress">
+                        <div class="center">
+                            <img alt="" src="<%=Func.BaseUrl%>assets/images/loader.gif" width="50"/>
+                        </div>
+                    </div>
+                </ProgressTemplate>
+            </asp:UpdateProgress>--%>
+            <div class="loading" align="center">
+                Please wait...<br />
+                <br />
+                <img src="<%=Func.BaseUrl%>assets/images/loader.gif" alt="" width="40" />
+            </div>
+            <objeTrading:Header runat="server" ID="headereTras" />
+            <objeTrading:Menu runat="server" ID="menueTras" />
+
+            <asp:UpdatePanel ID="panelAjax" runat="server">
+                <ContentTemplate>
+                    <div id="content-wrapper">
+                        <asp:Label ID="lblMessage" runat="server"></asp:Label>
+                        <ul class="breadcrumb breadcrumb-page">
+                            <div class="breadcrumb-label text-light-gray" style="color: #808080; font-weight: 500;">You are here: </div>
+                            <li style="color: #213f90; font-weight: 500;">
+                                <asp:Label ID="lblBreadCrumbs" runat="server"></asp:Label>
+                            </li>
+                        </ul>
+                        <%--<div class="page-header">
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <h1 class="col-xs-8 col-sm-8 text-left-sm" style="color: #213f90; font-weight: bold;">&nbsp;&nbsp;<asp:Label ID="lblTitleMenu" runat="server"></asp:Label></h1>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="pull-right">
+                                        <img src="<%=Func.BaseUrl%>assets/images/logo/logo-3.png" width="190" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>--%>
+                        <div class="row">
+                            <!--THIS IS MAIN CONTENT-->
+                            <asp:ContentPlaceHolder ID="BodyContent" runat="server"></asp:ContentPlaceHolder>
+                            <!--END MAIN CONTENT-->
+
+                        </div>
+
+                    </div>
+                </ContentTemplate>
+
+            </asp:UpdatePanel>
+
+            <footer class="main-footer">
+                <div class="col-sm-8">
+                        
+                    Copyright &copy; 2019 Created by <strong>PT. SYSNETSOFT</strong> For  <strong><asp:Label ID="yayasan" runat="server" Text=''></asp:Label></strong>.
+                   
+                </div>
+                <div class="col-sm-4">
+                    <script language="javascript">
+                        var NamaHari = new Array("Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat",
+						"Sabtu");
+                        var NamaBulan = new Array("Januari", "Februari", "Maret", "April", "Mei",
+						"Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember");
+                        var sekarang = new Date();
+                        var HariIni = NamaHari[sekarang.getDay()];
+                        var BulanIni = NamaBulan[sekarang.getMonth()];
+                        var tglSekarang = sekarang.getDate();
+                        var TahunIni = sekarang.getFullYear();
+                        document.write(HariIni + ", " + tglSekarang + " " + BulanIni + " " + TahunIni);
+					</script>
+                    <span id="jam" class="fontfooter">
+                        <script language="javascript">
+                            function jam() {
+                                var waktu = new Date();
+                                var jam = waktu.getHours();
+                                var menit = waktu.getMinutes();
+                                var detik = waktu.getSeconds();
+
+                                if (jam < 10) {
+                                    jam = "0" + jam;
+                                }
+                                if (menit < 10) {
+                                    menit = "0" + menit;
+                                }
+                                if (detik < 10) {
+                                    detik = "0" + detik;
+                                }
+                                var jam_div = document.getElementById('jam');
+                                jam_div.innerHTML = jam + ":" + menit + ":" + detik;
+                                setTimeout("jam()", 1000);
+                            }
+                            jam();
+						</script>
+                    </span>
+                </div>
+            </footer>
+            <div id="main-menu-bg"></div>
+        </div>
+    </form>
+    <script src="<%=Func.BaseUrl%>assets/javascripts/bootstrap.min.js"></script>
+    <script src="<%=Func.BaseUrl%>assets/javascripts/pixel-admin.min.js"></script>
+
+    <script type="text/javascript">
+        init.push(function () {
+        })
+        window.PixelAdmin.start(init);
+    </script>
+    <asp:ContentPlaceHolder ID="BottomContent" runat="server"></asp:ContentPlaceHolder>
+</body>
+
+</html>
+

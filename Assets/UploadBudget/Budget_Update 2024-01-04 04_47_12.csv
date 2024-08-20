@@ -1,0 +1,99 @@
+noBudget,Kode_Akun,Nama_Akun,Nilai
+1,113.01.001,Piutang Formulir Pendaftaran Peserta Didik Baru,45000
+2,113.01.006,Piutang Uang Pangkal,45000
+3,113.01.009,Piutang Pemeliharaan Gedung Peserta Didik Baru,45000
+4,113.01.011,Piutang Sumbangan Pembinaan Pendidikan (SPP),45000
+5,113.01.016,Piutang Kegiatan Tahunan,45000
+6,113.01.021,Piutang Ekskul,45000
+7,115.01.000,Uang Muka Permintaan Dana,45000
+8,115.02.000,Uang Muka Lain-lain,45000
+9,120.01.001,Tanah Jalan Juanda,45000
+10,120.01.002,Tanah Jalan Pengadilan,45000
+11,220.02.000,Dana Pinjaman Karyawan,45000
+12,501.01.001,Air,45000
+13,501.02.001,Gas,45000
+14,501.03.001,Listrik,45000
+15,501.04.001,Telepon,45000
+16,501.04.002,Koneksi Internet,45000
+17,501.05.001,Biaya Alat Tulis Kantor (Kertas; Pulpen; Tinta Printer; Materai; dll),45000
+18,501.05.002,Biaya Pengiriman Dokumen,45000
+19,501.05.003,Biaya Komunikasi (Pulsa; Kuota),45000
+20,501.05.004,Biaya Langganan Perangkat Lunak (Canva; Midtrans),45000
+21,501.05.005,Biaya Fotocopy,45000
+22,501.05.006,Biaya Admin Uang Sekolah,45000
+23,501.06.001,Biaya Iklan,45000
+24,501.06.002,Biaya Promosi,45000
+25,501.07.001,Biaya Bahan Bakar; Tol; Parkir,45000
+26,501.08.001,Sewa Gedung,45000
+27,501.08.002,Sewa Kendaraan,45000
+28,501.08.003,Sewa Peralatan,45000
+29,501.09.001,Pemeliharaan Gedung,45000
+30,501.09.002,Pemeliharaan Rumah Budaya,45000
+31,501.09.003,Pemeliharaan Kendaraan Mobil Innova,45000
+32,501.09.004,Pemeliharaan Kendaraan Hiace,45000
+33,501.09.005,Pemeliharaan Peralatan ,45000
+34,501.09.006,Pemeliharaan Furniture dan Meubel,45000
+35,501.09.007,Pemeliharaan Perlengkapan,45000
+36,501.10.001,Biaya Pajak Bumi Bangunan,45000
+37,501.10.002,Biaya Pajak PPh 23 Badan,45000
+38,501.10.003,Biaya Pajak PPn,45000
+39,501.10.004,Biaya Pajak Lainnya,45000
+40,501.11.001,Biaya Konsultasi Pajak,45000
+41,501.12.001,Gaji Pokok,45000
+42,501.12.002,Tunj. Istri/Anak,45000
+43,501.12.003,Tunj. Beras,45000
+44,501.12.004,Tunj. Jabatan,45000
+45,501.12.005,Tunj. Fungsional/Non Guru,45000
+46,501.12.006,Tunj. Khusus,45000
+47,501.12.007,Tunj. Wali Kelas/Dobel Kelas/Guru Bantu,45000
+48,501.12.008,Tunj. Yadapen,45000
+49,501.12.009,Tunj. BPJS Kesehatan,45000
+50,501.12.010,Tunj. BPJS Ketenagakerjaan,45000
+51,501.12.011,Tunj. Kesehatan Dibayar Sendiri,45000
+52,501.12.012,Tunj. lain-lain,45000
+53,501.12.013,Honor Jasa Hadir,45000
+54,501.12.014,Honor Kegiatan Agama,45000
+55,501.12.015,Honor Jam Lebih/ Lembur,45000
+56,501.12.016,Honor Ekstrakulikuler,45000
+57,501.12.017,Honor Mengganti Guru,45000
+58,501.12.018,Honor Mengajar Lain-lain,45000
+59,501.12.019,Lain-lain,45000
+60,501.12.020,Tunj. Hari Raya,45000
+61,501.12.021,Bonus,45000
+62,501.13.001,Makan Siang Guru dan Karyawan,45000
+63,501.14.001,Kesejahteraan Karyawan,45000
+64,501.15.001,Seragam Karyawan,45000
+65,501.16.001,Biaya Peningkatan Profesi dan Rohani (Retret; Rekoleksi; Diklat; Seminar; Assesment),45000
+66,501.16.002,Biaya Dinas Di dalam Kota atau Luar Kota,45000
+67,501.17.001,Seragam Sekolah,45000
+68,501.17.002,Seragam Batik RP,45000
+69,501.17.003,Atribut Seragam,45000
+70,501.18.001,Biaya Operasional Fotocopy,45000
+71,501.19.001,Perpustakaan (Langganan Koran; Majalah),45000
+72,501.20.001,Buku Pegangan Guru,45000
+73,501.21.001,Biaya Keperluan Laboratorium,45000
+74,501.22.001,Biaya Perlengkapan Rumah Tangga,45000
+75,501.22.002,Biaya Perlengkapan Kebun,45000
+76,501.22.003,Biaya Kebersihan/Penyemprotan,45000
+77,501.23.001,Jasa Kebersihan PT. KAS,45000
+78,501.23.002,Fee Management PT. KAS,45000
+79,501.24.001,Bantuan Pendidikan dan Lingkungan (IGTK; PGRI),45000
+80,501.25.001,Donasi dan Sumbangan,45000
+81,501.26.001,Kegiatan Sekolah,45000
+82,501.27.001,Iuran Jasa Komputer,45000
+83,501.27.002,Buku Komputer,45000
+84,501.28.001,Iuran Bahasa Inggris,45000
+85,501.28.002,Buku Bhs. Inggris,45000
+86,501.29.001,Iuran Bahasa Mandarin,45000
+87,501.29.002,Management Fee Bahasa Mandarin,45000
+88,501.30.001,Ekskul,45000
+89,501.31.001,LIVE IN,45000
+90,501.32.001,Uang Kegiatan,45000
+91,501.33.001,Biaya Penyusutan Gedung Sekolah,45000
+92,501.33.002,Biaya Penyusutan Rumah Budaya,45000
+93,501.33.003,Biaya Penyusutan Kendaraan Mobil Hiace,45000
+94,501.33.004,Biaya Penyusutan Kendaraan Mobil Innova,45000
+95,501.33.005,Biaya Penyusutan Peralatan,45000
+96,501.33.006,Biaya Penyusutan Furniture dan Meubel,45000
+97,501.33.007,Biaya Penyusutan Perlengkapan,45000
+98,700.02.001,Biaya Administrasi Bank,45000
